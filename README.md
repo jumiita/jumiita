@@ -7,4 +7,6 @@ Welcome to my corner of the digital world! I am 31 years old and a passionate de
 - PHP 8.2 and Symfony 6.3
 - Javascript
 And much more...
-I'm excited to share my journey and projects with you!
+---
+
+### I'm excited to share my journey and projects with you!
