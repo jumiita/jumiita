@@ -9,4 +9,32 @@ Welcome to my corner of the digital world! I am 31 years old and a passionate de
 And much more...
 ---
 
+### Languages and Tools:
+
+
+<img align="left" alt="Lapini | React" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" />
+<img align="left" alt="Lapini | Javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" />
+<img align="left" alt="Lapini | Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>
+<img align="left" alt="Lapini | Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"/>
+<img align="left" alt="Lapini | SQL" width="26px" src="https://lineadecodigo.com/wp-content/uploads/2014/04/sql-e1633736325758.png"/>
+<img align="left" alt="Lapini | Photoshop" width="26px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-1.png" />
+<img align="left" alt="Lapini | Illustrator" width="26px" src="https://www.pngmart.com/files/21/AI-PNG-Image.png" />
+
+<br/>
+<br/>
+
+### Connect with me:
+
+[<img align="left" alt="Lapini | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Lapini | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
+
+<br/>
+<br/>
+
+
+</details>
+
+[linkedin]: https://www.linkedin.com/in/juan-manuel-fern%C3%A1ndez-fuster-a72bba191/
+[instagram]: https://www.instagram.com/juma_fernandez_oficial/
+
 ### I'm excited to share my journey and projects with you!
