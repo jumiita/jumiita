@@ -17,7 +17,7 @@ Welcome to my corner of the digital world! I am 31 years old and a passionate de
 ![Visitor Count](https://komarev.com/ghpvc/?username=jumiita&color=radical)
 
 - 🌟 I've been part of the dynamic team at Conjurer for over a year and a half now.
-- 🚀 I've crafted my personal website, a reflection of my skills and creativity. Feel free to explore it here: [Jumafernandez](https://jumafernandez.com)
+- 🚀 I've crafted my personal website, a reflection of my skills and creativity. Feel free to explore it here: [Jumafernandez](https://jumafernandez.es)
 - 💻 The website showcases my proficiency with cutting-edge technologies including:
   - PHP 8.2 and Symfony 6.3
   - Javascript
