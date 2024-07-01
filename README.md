@@ -4,10 +4,9 @@ Welcome to my corner of the digital world! I am 31 years old and a passionate de
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jumiita&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jumiita&layout=compact&theme=radical&count_private=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jumiita&theme=radical)
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=jumiita&color=radical)
+![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=jumiita&theme=radical)
 
 - 🌟 I've been part of the dynamic team at Conjurer for over a year and a half now.
 - 🚀 I've crafted my personal website, a reflection of my skills and creativity. Feel free to explore it here: [Jumafernandez](https://jumafernandez.com)
