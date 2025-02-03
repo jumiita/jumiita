@@ -1,6 +1,6 @@
 # Hi, I'm Juma Fernández! 👋
 
-Welcome to my corner of the digital world! I'm a 31-year-old passionate developer who loves crafting creative and functional solutions.
+Welcome to my corner of the digital world! I'm a 32-year-old passionate developer who loves crafting creative and functional solutions.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jumiita&layout=compact&theme=radical&count_private=true)
 
@@ -16,7 +16,11 @@ Welcome to my corner of the digital world! I'm a 31-year-old passionate develope
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=jumiita&color=radical)
 
-- 🌟 I've been part of the dynamic team at Conjurer for over a year and a half now, pushing boundaries and learning every day.
+## ✨ About Me
+
+- 🔄 Currently, I’ve taken a new direction in my career to embrace change and face new challenges. I've transitioned to working with a strongly typed language, C#, and Blazor, where I’m learning new methodologies, collaborating with a fresh team, and adapting to an exciting new project. [ROIBOS](https://www.linkedin.com/company/roibos-technologies/posts/?feedView=all)
+I'm currently part of ROIBOS Technologies, a company that offers innovative solutions. I invite you to check them out if you haven’t heard of them before:
+- 🌟 I've been part of the dynamic team at Conjurer for over a two years and a half now, pushing boundaries and learning every day.
 - 🚀 I've crafted my personal website, a reflection of my skills and creativity. Feel free to explore it here: [JumaFernandez Developer Portfolio](https://jumafernandez.es/developer).
 - 📈 I've also had the pleasure of contributing to [Team Finito](https://teamfinito.es/), a project that embodies teamwork and efficiency.
 - 🌐 Additionally, I have developed two websites:
@@ -26,6 +30,7 @@ Welcome to my corner of the digital world! I'm a 31-year-old passionate develope
   - PHP 8.2 and Symfony 6.3
   - JavaScript and ReactJS
   - Java, C#, Blazor
+  - Docker, WebSockets
   - And much more...
 
 I pride myself on building clean, maintainable code and delivering solutions that not only meet but exceed expectations. Whether it's working on backend logic with PHP or crafting smooth, responsive interfaces with React, I thrive on the challenges that come with software development. Let's collaborate and create something amazing together!
@@ -47,10 +52,11 @@ I pride myself on building clean, maintainable code and delivering solutions tha
 <br/>
 <br/>
 
-### Connect with me:
+### 📞 Connect with Me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
+[JumaFernandez Developer Portfolio](https://jumafernandez.es/developer).
 
 <br/>
 <br/>
