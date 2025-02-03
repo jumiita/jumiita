@@ -2,11 +2,11 @@
 
 Welcome to my corner of the digital world! I'm a 31-year-old passionate developer who loves crafting creative and functional solutions.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jumiita&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jumiita&layout=compact&theme=radical&count_private=true)
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jumiita&layout=compact&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jumiita&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 <br/>
 
